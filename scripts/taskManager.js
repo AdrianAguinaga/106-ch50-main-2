@@ -39,7 +39,7 @@ function displayTask(task){
       </div>   
       <div class="status">${task.status}</div>
       <div class="date-budget">
-        <span>${task.date}</spa>
+        <span>${task.date}</span>
         <span>${task.budget}</span>
       </div>
     </div>  
