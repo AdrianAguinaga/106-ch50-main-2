@@ -9,4 +9,7 @@ function init()
     sayHello();
 }
 
+
 window.onload = init;
+
+
